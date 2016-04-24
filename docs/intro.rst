@@ -27,12 +27,10 @@ PHPWordは、`continuous integration（継続的インテグレーション）<h
 -  タイトル、目次の挿入が出来ます。
 -  改行、ページ区切りも利用可能
 -  右から左に書き進む言語（アラビア語など）にも対応
--  
--  Insert and format images, either local, remote, or as page watermarks
--  Insert binary OLE Objects such as Excel or Visio
--  Insert and format table with customized properties for each rows
-   (e.g. repeat as header row) and cells (e.g. background color,
-   rowspan, colspan)
+-  （ローカルもそれ以外も）画像の挿入と加工。透かし（ウォーターマーク）も対応。
+-  ExcelやVisioのバイナリOLEオブジェクトの挿入
+-  表の挿入と加工。行毎の設定（例：ヘッダとしての再利用？）やセルごとの設定（背景色、rowspanやcolspanなどのセルの結合など）も可能。
+
 -  Insert list items as bulleted, numbered, or multilevel
 -  Insert hyperlinks
 -  Insert footnotes and endnotes
